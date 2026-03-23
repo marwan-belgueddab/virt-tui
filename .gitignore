@@ -1,0 +1,13 @@
+# Binaries
+virt-tui
+virt-tui.exe
+*.exe
+*.test
+*.prof
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Go modules
+vendor/
